@@ -1,0 +1,47 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+nav.navbar, footer, .main_bg{
+     background-color: #316494;
+}  
+// #316494  
+footer{
+    color: white;
+}
+
+section h2, section h1{
+    font-family: Myriad Pro;
+    font-style: italic;
+}
+
+.owl-prev{
+    left: -30px;
+}
+.owl-next{
+    right: -30px;   
+}
+.owl-prev, .owl-next{
+    position: absolute;
+    top: 30%;
+}
+
+.owl-prev span, .owl-next span{
+    font-size: 60px;
+    color: #787878;
+}
+.owl-theme .owl-nav [class*="owl-"]:hover{
+    background-color: transparent;
+}
+
+
+//plava 426e8f
+// dobra plava - #316494
+
+
+
+
+
+
+
+
